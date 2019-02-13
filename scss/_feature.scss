@@ -34,7 +34,7 @@
 	border-radius: 5px;
 	i{
 		font-size: 24px;
-		background: linear-gradient(to right, #766dff 0%, #86e7ff 70%);
+		background: linear-gradient(to right, #2E86C1 0%, #86e7ff 70%);
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 	}
@@ -86,9 +86,9 @@
 					border-radius: 5px;
 					vertical-align: middle;
 					align-self: center;
-					background-image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-					background-image: -webkit-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-					background-image: -ms-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
+					background-image: -moz-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+					background-image: -webkit-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+					background-image: -ms-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
 				}
 			}
 		}
@@ -101,9 +101,9 @@
 /* My Tabs Area css
 ============================================================================================ */
 .mytabs_area{
-	background-image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-	background-image: -webkit-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-	background-image: -ms-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
+	background-image: -moz-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+	background-image: -webkit-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+	background-image: -ms-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
 }
 .tabs_inner{
 	.nav.nav-tabs{
@@ -369,9 +369,9 @@
 			}
 			&:hover{
 				a{
-					background-image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-					background-image: -webkit-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-					background-image: -ms-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
+					background-image: -moz-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+					background-image: -webkit-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+					background-image: -ms-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
 				}
 			}
 		}

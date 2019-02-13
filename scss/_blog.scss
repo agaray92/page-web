@@ -146,9 +146,9 @@
     }
     &:hover{
         .categories_details{
-			background-image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-			background-image: -webkit-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-			background-image: -ms-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
+			background-image: -moz-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+			background-image: -webkit-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+			background-image: -ms-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
 			opacity: 0.851;
         }
     }
@@ -426,9 +426,9 @@
                     color: $dip;
                     font-size: 12px;
                     &:hover{
-						background-image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-						background-image: -webkit-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-						background-image: -ms-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
+						background-image: -moz-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+						background-image: -webkit-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+						background-image: -ms-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
                         color: #fff;
                     }
                 }

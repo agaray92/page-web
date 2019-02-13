@@ -2,7 +2,7 @@
 ============================================================================================ */
 .main_btn{
 	display: inline-block;
-	background-image: linear-gradient(to right, #766dff 0%, #86e8ff 48%, #766dff 100%);
+	background-image: linear-gradient(to right, #2E86C1 0%, #86e8ff 48%, #2E86C1 100%);
     background-size: 200% auto;
 	padding: 0px 40px;
 	color: #fff;
@@ -84,9 +84,9 @@
 	cursor: pointer;
 	@include transition;
 	&:hover{
-		background-image: -moz-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-		background-image: -webkit-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
-		background-image: -ms-linear-gradient( 0deg, rgb(118,109,255) 0%, rgb(136,243,255) 100%);
+		background-image: -moz-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+		background-image: -webkit-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
+		background-image: -ms-linear-gradient( 0deg, rgb(46, 134, 193) 0%, rgb(235, 245, 251) 100%);
 		color: #fff;
 		border: none;
 	}
